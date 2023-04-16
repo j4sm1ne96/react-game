@@ -1,0 +1,2 @@
+body{background-color:#444;color:#fff;font:32px poppins,Helvetica,sans-serif;margin:20px}.game{align-items:center;display:flex;flex-direction:column}.board-row{display:flex;flex-flow:row nowrap}.square{background-color:#444;border:1px solid #999;color:#fff;font-size:84px;height:100px;padding:0;text-align:center;width:100px}.square:focus{background-color:#222;outline:none}.status{font-size:24px;margin:20px}
+/*# sourceMappingURL=main.9ac05a9b.css.map*/
